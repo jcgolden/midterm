@@ -1,0 +1,117 @@
+.title{
+   float: top;
+   
+   font-size: 35px;
+}
+
+.com{
+   font-size: 50px;
+   border: 3px solid blue;
+   width: 110px;
+   padding-left: 5px;
+   padding-bottom: 5px;
+}
+
+.writtenout{
+   display: inline;
+   float: top;
+   padding-top: 0px;
+   padding-bottom: 15px;
+}
+
+ul{ 
+   float: top;
+   outline-style: solid;
+   outline-color: blue;
+   height: 10px;
+   padding-top: 5px;
+   padding-bottom: 25px;
+   padding-left: 415px;
+   padding-right: 100px;
+   margin-top: 25px;
+   margin-left: 0px;
+}
+
+li{
+   float: center;
+   padding-right: 25px;
+   padding-left: 25px;
+   font-size: 25px;
+   display: inline;
+   color:black;
+   text-decoration: none;
+}
+
+li:hover{
+   color: blue;
+}
+
+a{
+   color: black;
+   text-decoration: none;
+ }
+
+ a:hover{
+     color: blue;
+ }
+
+.box {
+   float: left;
+   width: 425px;
+   margin-left: 0px;
+   margin-right: 20px;
+   margin-top: 10px;
+   margin-bottom: 25px;
+   padding: 15px;
+   border: 2px solid blue;
+   font-size: 25px;
+}
+
+.box2 {
+   float: right;
+   width: 425px;
+   margin-top: 10px;
+   padding: 15px;
+   border: 2px solid blue;
+   font-size: 25px;
+}
+
+.a{
+   font-size: 25px;
+   padding-top: 10px;
+   padding-left: 10px;
+   padding-bottom: 0px;
+   border: 2px solid blue;
+   margin-bottom: 5px;
+}
+
+.b{
+   font-size: 25px;
+   padding-top: 10px;
+   padding-left: 10px;
+   padding-bottom: 0px;
+   border: 2px solid blue;
+   margin-bottom: 5px;
+}
+
+.c{
+   font-size: 25px;
+   padding-top: 10px;
+   padding-left: 10px;
+   padding-bottom: 0px;
+   border: 2px solid blue;
+   margin-bottom: 5px;
+}
+
+.d{
+   font-size: 25px;
+   padding-top: 10px;
+   padding-left: 10px;
+   padding-bottom: 0px;
+   border: 2px solid blue;
+   margin-bottom: 5px;
+}
+
+h4{
+   margin: 25px;
+}
